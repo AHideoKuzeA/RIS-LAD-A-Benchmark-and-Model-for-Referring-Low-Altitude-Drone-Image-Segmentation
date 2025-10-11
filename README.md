@@ -26,7 +26,7 @@
 ## 🔗 Quick Links
 
 - Paper (arXiv): https://arxiv.org/abs/2507.20920  
-- Dataset (Google Drive): https://drive.google.com/file/d/1na6DpdBxNbd2juyKGK9QWdqjOrEuER7v/view?usp=sharing  
+- Dataset (Google Drive): https://drive.google.com/file/d/1jBL3gWJ3liF0U1ynpX1PSNGSaHY_GBXh/view?usp=drive_link
 - Model & Code: _coming soon_
 
 ---
