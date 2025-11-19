@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/arXiv-2507.20920-B31B1B?logo=arxiv&logoColor=white" alt="arXiv">
   </a>
   <a href="https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation/edit/main/README.md">
-    <img src="https://img.shields.io/badge/Dataset-Google%20Drive-ffb300?logo=googledrive&logoColor=white" alt="Dataset">
+    <img src="https://img.shields.io/badge/Dataset-Google%20Drive-ffb300?logo=googledrive&logoColor=white" alt="coming soon">
   </a>
   <img src="https://img.shields.io/badge/Code-Coming%20Soon-4C9A2A" alt="Code coming soon">
 </p>
