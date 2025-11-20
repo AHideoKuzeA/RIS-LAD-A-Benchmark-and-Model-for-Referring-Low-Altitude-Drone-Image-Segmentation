@@ -10,7 +10,7 @@
   <a href="https://arxiv.org/abs/2507.20920">
     <img src="https://img.shields.io/badge/arXiv-2507.20920-B31B1B?logo=arxiv&logoColor=white" alt="arXiv">
   </a>
-  <a href="https://github.com/AHideoKuzeA/RIS-LAD-A-Benchmark-and-Model-for-Referring-Low-Altitude-Drone-Image-Segmentation/edit/main/README.md">
+  <a href="https://drive.google.com/file/d/1PmtaQH_F0AUoGWgpmDSpPu27E2XSdGd4/view?usp=sharing">
     <img src="https://img.shields.io/badge/Dataset-Google%20Drive-ffb300?logo=googledrive&logoColor=white" alt="coming soon">
   </a>
   <img src="https://img.shields.io/badge/Code-Coming%20Soon-4C9A2A" alt="Code coming soon">
@@ -26,7 +26,7 @@
 ## 🔗 Quick Links
 
 - Paper (arXiv): https://arxiv.org/abs/2507.20920  
-- Dataset (Google Drive): _coming soon_
+- Dataset (Google Drive): https://drive.google.com/file/d/1PmtaQH_F0AUoGWgpmDSpPu27E2XSdGd4/view?usp=sharing
 - Model & Code: _coming soon_
 
 ---
